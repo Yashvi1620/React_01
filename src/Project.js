@@ -8,16 +8,18 @@ const Project = () => {
 
         <div className='about'>About Us</div>
         <br />
-        <p className='p1'>Lorem ipsum dolor sit amet, consectetur adipisicing elit consectetu
-       ree ea facere, rem nostru</p>
+        <p className='p1'>At Zappos.com, our purpose is simple: to live and delieverr WOW</p>
         <br />
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum unde expedita beatae aperiam commodi quia quam excepturi omnis placeat hic dolorem asperiores, consectetur dolorum blanditiis dolor nihil labore eveniet vero!
-         nostrum. Odio assumenda, neque mollitia libero facere quos voluptatem, praesentium veniam architecto magnam laborum dolorum quidem totam optio veritatis suscipit deserunt, fugit consectetur.
-        Deleniti libero atque veniam officia voluptas temporibus, harum iure similique ea accusamus ipsa quos optio <span className='dash'>______ .</span> 
+        <p>
+        Twenty years ago, we began as a small online retailer that only sold shoes. Today, We still sell shoes- as well as clothing,
+        handbags, accessories and more.That "more" is providing the very best cutomer service, customer
+        experience, and company culture. We aim to inspire the world by showing it's possible to simultaneously
+        deliver happiness to customers, employees, vendors, shareholders, and the community in a long-term, sustainble way.
         </p>
         <br />
         <br />
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore modi fuga similique! Perferendis nesciunt quae illo autem facere ducimus accusamus rerum repellat laudantium, nemo voluptates inventore sunt id, eveniet incidunt.</p>
+        <p>We hope that in the future people won't even realize we started selling shoes online. Instead, they'll know
+        Zappos as a service company that just happens to sell__________.</p>
         </div>
 
     </div>
